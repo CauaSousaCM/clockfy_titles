@@ -1,6 +1,4 @@
 from utils import messages
-
-
 def return_title_for_clockfy():
     try:
         title = str(input(
